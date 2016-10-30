@@ -1,0 +1,14 @@
+{
+    "name": "www/compose",
+    "require-dev": {
+        "yiisoft/yii": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Dastan Smailov",
+            "email": "dastanfromkz@mail.ru"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
